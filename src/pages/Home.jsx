@@ -9,9 +9,9 @@ const Home = () => {
         <div className="font-bold dark:text-white text-4xl">
           I'm{" "}
           <span className="px-2 py-1 mr-1 text-blue-500 rounded-lg">
-            Pranava
+            Shri
           </span>
-          <span>Muthu</span>
+          <span>Mathi</span>
           <p className="text-sm font-semibold text-black bg-clip-text mt-4">
             Certified MERN Stack Developer with a strong foundation <br /> in
             full-stack web development. <br /> I have maintained 85 repositories
